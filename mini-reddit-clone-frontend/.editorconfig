@@ -1,0 +1,23 @@
+# Editor configuration, see https://editorconfig.org
+root = true
+
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.ts]
+quote_type = single
+ij_typescript_use_double_quotes = false
+
+[*.md]
+max_line_length = off
+trim_trailing_whitespace = false
+# File update Fri, Jan  9, 2026  9:15:43 PM
+# Update Fri, Jan  9, 2026  9:25:20 PM
+# Update Fri, Jan  9, 2026  9:34:07 PM
+// Logic update: nbkgvXJfrmgn
+// Logic update: qeTHjJ2kWpco
+// Logic update: i4IEWnblluk3
