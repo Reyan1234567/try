@@ -1,0 +1,20 @@
+/* To learn more about Typescript configuration file: https://www.typescriptlang.org/docs/handbook/tsconfig-json.html. */
+/* To learn more about Angular compiler options: https://angular.dev/reference/configs/angular-compiler-options. */
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./out-tsc/spec",
+    "types": [
+      "jasmine"
+    ]
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
+// Update Fri, Jan  9, 2026  9:15:52 PM
+# Update Fri, Jan  9, 2026  9:25:29 PM
+# Update Fri, Jan  9, 2026  9:34:16 PM
+// Logic update: BWhs9CEYMWG6
+// Logic update: 8ShMfsE0Ujrz
+// Logic update: yYdcb1x58sFJ
