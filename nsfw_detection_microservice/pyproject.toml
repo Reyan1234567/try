@@ -1,0 +1,21 @@
+[project]
+name = "nsfw-detection-microservice"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "clip",
+    "detoxify>=0.5.2",
+    "dotenv>=0.9.9",
+    "fastapi>=0.124.4",
+    "nsfw-image-detector>=0.1.2",
+    "nudenet>=3.4.2",
+    "pillow>=12.0.0",
+    "python-multipart>=0.0.20",
+    "uvicorn>=0.38.0",
+]
+
+[tool.uv.sources]
+clip = { git = "https://github.com/openai/CLIP.git" }
+# Update Fri, Jan  9, 2026  9:35:31 PM
